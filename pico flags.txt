@@ -1,0 +1,16 @@
+pico insp3ct0r flag
+picoCTF{tru3_d3t3ctlve_0r_ju5t_lucky?10be399}
+
+pico dont-use-client-side flag
+picoCTF{no_clients_plz_7723ce}
+
+
+pico logon flag
+picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}
+
+
+pico inspect HTML flag
+picoCTF{1n5p3t0r_0f_h7ml_1fd8425b}
+
+pico login flag
+picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}
